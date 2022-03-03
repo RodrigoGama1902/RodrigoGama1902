@@ -5,7 +5,7 @@
 - Blender Add-ons Developer
 - 🔭 I’m currently working on **another great Blender add-on**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogama1902&show_icons=true&theme=dracula&locale=en" alt="rodrigogama1902" /></p>
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogama1902&show_icons=true&theme=dracula&locale=en" alt="rodrigogama1902" /></p>-->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
