@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Gama</h1>
 <h3 align="center">Creator of <a href="cgoutset.com" target="_blank" rel="noreferrer">CGoutset.com</a></h3>
 
+- Python Developer
+- Blender Add-ons Developer
 - 🔭 I’m currently working on **another blender add-on**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogama1902&show_icons=true&theme=dracula&locale=en" alt="rodrigogama1902" /></p>
