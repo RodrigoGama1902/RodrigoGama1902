@@ -12,8 +12,12 @@
 <h3 align="center">Check my products:</h3>
 
 <p align="center">
-  <img width="40" height="40" src="https://s3.amazonaws.com/markets-rails/uploads%2F1566485094588-transparent-bg_Blender+Market.png" />
+  <a href="https://blendermarket.com/creators/rodrigo-gama" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://s3.amazonaws.com/markets-rails/uploads%2F1566485094588-transparent-bg_Blender+Market.png" />
+  </a>
+  <a href="https://app.gumroad.com/rodrigogama" target="_blank" rel="noreferrer">
   <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/gumroad-3521475-2944919.png" />
+  </a>
 </p>
 
 
