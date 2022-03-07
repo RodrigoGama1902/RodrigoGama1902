@@ -27,4 +27,12 @@
   </a>
 </p>
 
+<h3 align="center">Developer and 3D Artist</h3>
+
+<p align="center">
+  <a href="https://www.behance.net/rodrigoborges8" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
+  </a>
+</p>
+
 
