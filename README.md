@@ -19,7 +19,7 @@
 <h3 align="center">Check all my Blender Add-ons:</h3>
 
 <p align="center">
-  <a href="https://blendermarket.com/creators/rodrigo-gama" target="_blank" rel="noreferrer">
+  <a href="https://blendermarket.com/creators/cgoutset" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://s3.amazonaws.com/markets-rails/uploads%2F1566485094588-transparent-bg_Blender+Market.png" />
   </a>
   <a href="https://cgoutset.gumroad.com/" target="_blank" rel="noreferrer">
