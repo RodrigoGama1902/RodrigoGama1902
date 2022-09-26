@@ -12,6 +12,8 @@
 </div>
 
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogama1902&show_icons=true&theme=dracula&locale=en" alt="rodrigogama1902" /></p>-->
+  
+##
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -36,6 +38,8 @@
   <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/gumroad-3521475-2944919.png" />
   </a>
 </p>
+  
+##
 
 <h3 align="center">Developer and 3D Artist</h3>
 
