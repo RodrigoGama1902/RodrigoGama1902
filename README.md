@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Gama</h1>
 <h3 align="center">Creator of <a href="https://cgoutset.com/" target="_blank" rel="noreferrer">CGoutset.com</a></h3>
 
+<div>
+  <a href="https://github.com/GustavoPix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPix&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 - Python Developer
 - Blender Add-ons Developer
 - 🔭 I’m currently working on **another great Blender add-on**
