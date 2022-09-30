@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Gama</h1>
 <h3 align="center">Creator of <a href="https://cgoutset.com/" target="_blank" rel="noreferrer">CGoutset.com</a></h3>
 
-- Python Developer
+- Python and C++ Developer
 - Blender Add-ons Developer
 - 🔭 I’m currently working on **another great Blender add-on**
 
