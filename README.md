@@ -4,14 +4,6 @@
 - Python and C++ Developer
 - Blender Add-ons Developer
 - 🔭 I’m currently working on **another great Blender add-on**
-
-<div align="center">
-  <a href="https://github.com/RodrigoGama1902">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGama1902&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGama1902&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigogama1902&show_icons=true&theme=dracula&locale=en" alt="rodrigogama1902" /></p>-->
   
 ##
 
